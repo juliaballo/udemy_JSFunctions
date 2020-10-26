@@ -28,6 +28,6 @@ const isSnakeEyes = (num1, num2) => {
 // DEFINE YOUR FUNCTION BELOW:
 const multiply = (num1, num2) => {return num1 * num2};
 
-//exercise 29
+//exercise 39
 // DEFINE YOUR FUNCTION BELOW:
 const isShortsWeather = temperature => {return temperature >= 75 ? true : false};
